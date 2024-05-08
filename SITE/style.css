@@ -1,0 +1,288 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans serif;
+}
+
+/* Style général du corps du document */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Style de l'en-tête */
+header {
+    background-color: #333;
+    color: #ffffff;
+    padding: 10px 0;
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+header nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Style de la section principale */
+main {
+    margin: 15px;
+}
+
+.hero {
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 2em;
+}
+
+.hero p {
+    color: #666;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.about h2 {
+    font-size: 1.5em;
+}
+
+.about p {
+    line-height: 1.6;
+}
+
+/* Style du pied de page */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/*gastronomie*/
+
+/* Style général du corps du document */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Style de l'en-tête */
+header {
+    background-color: #333;
+    color: #ffffff;
+    padding: 10px 0;
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+header nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Style de la section principale */
+main {
+    margin: 15px;
+}
+
+.gastronomie {
+    text-align: center;
+}
+
+.gastronomie h1 {
+    font-size: 2em;
+}
+
+.gastronomie p {
+    color: #666;
+}
+
+.dish {
+    margin-top: 20px;
+}
+
+.dish img {
+    width: 100%;
+    height: auto;
+}
+
+.dish h2 {
+    font-size: 1.5em;
+}
+
+/* Style du pied de page */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/*habillement*/
+
+/* Style général du corps du document */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Style de l'en-tête */
+header {
+    background-color: #333;
+    color: #ffffff;
+    padding: 10px 0;
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+header nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Style de la section principale */
+main {
+    margin: 15px;
+}
+
+.habillement {
+    text-align: center;
+}
+
+.habillement h1 {
+    font-size: 2em;
+}
+
+.habillement p {
+    color: #666;
+}
+
+.outfit {
+    width: 30%;
+    margin: 1%;
+}
+
+.outfit img {
+    width: 100%;
+    height: auto;
+}
+
+.outfit h2 {
+    font-size: 1.5em;
+}
+
+/* Utilisation de flexbox pour aligner les éléments .outfit sur une même ligne */
+.habillement {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/* Style du pied de page */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+
+/*contact*/
+
+/* Style général du corps du document */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Style de l'en-tête */
+header {
+    background-color: #333;
+    color: #ffffff;
+    padding: 10px 0;
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+header nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Style de la section principale */
+main {
+    margin: 15px;
+}
+
+.contact {
+    text-align: center;
+}
+
+.contact h1 {
+    font-size: 2em;
+}
+
+.contact p {
+    color: #666;
+}
+
+.contact img {
+    width: 100%;
+    height: auto;
+}
+
+/* Style du pied de page */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
